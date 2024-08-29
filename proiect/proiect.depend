@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1642344007 source:c:\proiect\proiect\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	<cstring>
+	<stack>
+
+1642344007 source:c:\users\10\desktop\toate proiectele\proiect\proiect\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	<cstring>
+	<stack>
+
